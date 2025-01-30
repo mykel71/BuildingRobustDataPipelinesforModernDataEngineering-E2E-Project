@@ -1,0 +1,9 @@
+{
+	"name": "medallion-spark-dbt-de-adf",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79c52183-455f-4deb-beb2-0865b974c747",
+		"tenantId": "565d73bf-656e-4ad6-ac1e-9aac5bce0728"
+	}
+}
